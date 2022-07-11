@@ -1,0 +1,112 @@
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 6.4, 1.6, 0.0, 2.5, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 6.4, 1.6, 0.0, 2.5, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 6.4, 1.6, 0.0, 2.5, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników (tylko predyspozycja): [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 6.4, 1.6, 0.0, 2.5, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników (tylko predyspozycja): [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników (tylko predyspozycja): [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników (tylko predyspozycja): [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.6, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników (tylko predyspozycja): [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 6.4, 1.6, 0.0, 2.5, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 6.4, 1.6, 0.0, 2.5, 0.0, 0.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników: [2, 4, 5, 6, 7, 3, 7, 3] 	 some text.. 
+wartoœæ czynników (tylko predyspozycja): [2, 4, 5, 6, 7, 3] 	 some text.. short 
+wartoœæ czynników: [56, 9.1, 0, 0.3, 0.5, 0.6, 20, 20, 30, 1.1, 0, 0] 	 some massage type by user 6/07/2022 r 
+wartoœæ czynników: [56, 9.1, 0, 0.3, 0.5, 0.6, 20, 1, 1, 1, 1, 20, 30, 1.1, 0, 0] 	 some massage type by user 6/07/2022 r 
+wartoœæ czynników: [56, 9.1, 0, 0.3, 0.5, 0.6, 20, 1, 1, 1, 1, 20, 30, 1.1, 0, 0] 	 some massage type by user 6/07/2022 r 
+wartoœæ czynników: [56, 9.1, 0, 0.3, 0.5, 0.6, 20, 1, 1, 1, 1, 20, 30, 1.1, 0, 0] 	 some massage type by user 6/07/2022 r 	 0.1 0.5 
+wartoœæ czynników: [56, 9.1, 0, 0.3, 0.5, 0.6, 20, 1, 1, 1, 1, 20, 30, 1.1, 0, 0] 	 some massage type by user 6/07/2022 r 	 MU:0.1 PRE: 0.5 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 7.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.78 PRE: 0.9594 
+wartoœæ czynników: [56.0, 9.1, 0.0, 0.3, 0.5, 0.6, 20.0, 20.0, 30.0, 1.1, 0.0, 0.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.66 PRE: 0.9247 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.97 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.97 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 some massage type by user 6/07/2022 r 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-sdfsfsf  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.95 PRE: 0.66 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.97 PRE: 0.8142 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.97 PRE: 0.8142 
+wartoœæ czynników: [1.0, 14.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.44 PRE: 0.8276 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.97 PRE: 0.9044 
+wartoœæ czynników: [1.0, 9.0, 2.0, 1.0, 1.0, 1.0, 1.0, 6.0, 1.0, 9.0, 14.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.5 PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [5.0, 2.0, 2.0, 8.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.852 
+wartoœæ czynników: [1.0, 2.0, 2.0, 3.0, 1.0, 3.0, 3.0, 1.0, 3.0, 3.0, 3.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 1.0, 1.0, 1.0, 11.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.98 PRE: 0.6608 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.98 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.97 PRE: 0.9044 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.67 PRE: 0.66 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 5.5] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.67 PRE: 0.66 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.67 PRE: 0.66 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.97 PRE: 0.8902 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.98 PRE: 0.9544 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.99 PRE: 0.9544 
+wartoœæ czynników: [1.0, 2.0, 2.0, 2.0, 3.0, 1.0, 3.0, 3.0, 2.0, 1.0, 3.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.9062 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [1.2, 1.1, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 22.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [1.0, 2.0, 2.0, 2.0, 1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 1.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.99 PRE: 0.9548 
+wartoœæ czynników: ['1', '2', '2', '2', '1', '2', '2', '2', '2', '1', '1', '2'] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: --- PRE: 0.9548 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.97 PRE: 0.9287 
+wartoœæ czynników: ['2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2'] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: --- PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 22.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: ['2', '2', '2', '2', '2', '2', '2', '2', '22', '2', '2', '2'] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: --- PRE: 0.66 
+wartoœæ czynników: [2.0, 46.0, 54.0, 654.0, 64.0, 6.0, 46.0, 4.0, 64.0, 64.0, 64.0, 56.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.88 PRE: 0.852 
+wartoœæ czynników: ['2', '46', '54', '654', '64', '6', '46', '4', '64', '64', '64', '56'] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: --- PRE: 0.852 
+wartoœæ czynników: [2.0, 1.0, 2.0, 2.0, 1.0, 2.0, 2.0, 2.0, 22.0, 2.0, 2.0, 2.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.96 PRE: 0.66 
+wartoœæ czynników: ['2', '1', '2', '2', '1', '2', '2', '2', '22', '2', '2', '2'] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: --- PRE: 0.66 
+wartoœæ czynników: ['2', '1', '2', '2', '1', '2', '2', '2', '22', '4', '2', '2'] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: --- PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 5.0, 2.0] 	 vector must have corect the length 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 5.0, 2.0] 	 vector must have corect the length 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 5.0, 2.0] 	 vector must have corect the length 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 5.0, 2.0] 	 vector must have corect the length 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: [2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 10.0, 2.0] 	 vector must have corect the length 	 MU: 0.9 PRE: 0.66 
+wartoœæ czynników: ['2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '10', '2'] 	 vector must have corect the length 	 MU: --- PRE: 0.66 
+wartoœæ czynników: ['1', '2', '321', '3', '13', '13', '1', '31', '31', '2', '31', '31'] 	 vector must have corect the length 	 MU: --- PRE: 0.8055 
+wartoœæ czynników: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 11.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: 0.98 PRE: 0.8902 
+wartoœæ czynników: ['1', '1', '1', '1', '1', '1', '1', '1', '11', '1', '1', '1'] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 	 MU: --- PRE: 0.8902 
+wartoœæ czynników: [5.0, 51.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . 
+wartoœæ czynników: [5.0, 51.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . Mam najlepszego dyrektora 
+wartoœæ czynników (tylko predyspozycja): [5.0, 51.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 5.0, 1.0, 1.0, 1.0] 	 Uwagi:	. Nazwa pola: RU-X/1.	Skrzy¿owanie: K-  /P-  . Mam najlepszego dyrektora 
