@@ -5,10 +5,6 @@ from PyQt5 import QtCore
 from numpy import exp, array, delete, swapaxes, add, matmul
 from tkinter import messagebox as msb
 
-#[56,	9.1,	0,	0.3,	0.5,	0.6,	20,	20,	30,	1.1,	6.4,	1.6,	0,	2.5,	0,	0]
-#[56,	9.1,	0,	0.3,	0.5,	0.6,	20,	20,	30,	1.1,	0,	0]
-#date = [56,	9.1,	0,	0.3,	0.5,	0.6,	20,	20,	30,	1.1,	6.4,	1.6,	0,	2.5,	0,	0]  # input by users
-
 class App_(QWidget):
 
     def __init__(self, parent=None):
@@ -252,7 +248,6 @@ class App_(QWidget):
         try: loop(list_)
         #except: 
         except: 
-            #self.Head.setText(str(sys.exc_info()[1]))
             self.set_output(
                 str(sys.exc_info()[1]),
                 str(sys.exc_info()[1])
@@ -283,7 +278,7 @@ def loop(date):
 
     state_msg = okno.uwagi.text() # user input # TO Z APP
     save = db.Save(state_msg, date)
-    save.save_to_file(compute_mu,compute_pre)
+    save.save_to_file(compute_mu, compute_pre)
 
     print(
         "PRE:", compute_pre,
