@@ -1,3 +1,4 @@
+![photo](logoprojekt.ico)
 # WSTĘP (cel aplikacyjny)
 **Ocena zagrożenia zawałowego <br>
 dla polskich kopalń rud miedzi** <br>
@@ -62,4 +63,5 @@ plik `base_code.py` zawiera zarówno **logikę warstwy graficznej aplikacji**, *
 
 Refactoring zatem ma na celu zwiększenie czytelności aplikacji.
 
+![photoapp](pict_1.jpg)
 
